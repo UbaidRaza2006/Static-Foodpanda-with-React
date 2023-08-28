@@ -1,0 +1,42 @@
+.nav{
+   margin-top: -8px;
+    background-color: white;
+    margin-left: -8px;
+    margin-right: -8px;
+    /* position: fixed; */
+}
+
+.foodpanda{
+    margin-left: 10px;
+    font-weight: lighter;
+    color: rgb(235, 67, 95);
+}
+.signup{
+    background-color: rgb(235, 67, 95);
+    color: white;
+    margin-left: 20px;
+    font-size: larger;
+    border-radius: 15% ;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+}
+.login{
+    background-color: rgb(235, 67, 95);
+    color: white;
+    margin-left: 980px;
+    font-size: larger;
+    border-radius: 15% ;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+
+}
+.image{
+    width: 40px;
+    border-radius: 20%;
+
+}
+.imagediv{
+    border-radius: 20%;
+}
